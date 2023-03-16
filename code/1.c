@@ -1,6 +1,7 @@
-#include<stdio.h>
+#include<bits/stdc++.h>
 
-int main(void) {
-    printf("hello world!\n");
+int main() {
+
+
     return 0;
 }
